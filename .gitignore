@@ -1,0 +1,24 @@
+.DS_Store        # Archivos de macOS
+Thumbs.db        # Archivos de miniaturas de Windows
+.vs/
+.vscode/
+.idea/
+*.nupkg
+/packages/
+bin/
+obj/
+wwwroot/
+publish/
+appsettings.Development.json
+appsettings.Production.json
+Migrations/
+*.log
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+.docker/
+LocalDatabase.db
+LocalDatabase.db-shm
+LocalDatabase.db-wal
